@@ -1,10 +1,18 @@
-Questão 1:
+Questão 1: Um algoritmo é uma sequência de intruções ordenadas de forma lógica para a resoluçã de uma determinada tarefa ou problema.
 
 
-Questão 2:
+Questão 2: Variáveis são alocações de memória nas quais podemos guardar dados. Elas tem um nome, tipo e valor. Toda vez que necessite usar uma variável você precisa declará-la e só então poderá atribuir valores a mesma.
 
 
-Questâo 3:
+Questâo 3: 
+Método: public double
+Assinatura: fazerDeposito
+Parâmetro: (double valorDeposito)
 
 
-Questâo 4:
+Questâo 4: 
+for: específica os detalhes da repetição controlada por contador em uma única linha de código. Situação: Variar a variável de controle de 1 a 100 em incrementos de 1.
+
+while: pode ser utilizada para implementar qualquer loop controlado por contador. Situação: validar a idade, o salário, o sexo (feminino e masculino) e o Estado Civil de um indivíduo.
+
+do while: E usado quando não se sabe a quantidade exata de repeticões. Situação: fazer um pedido escolhendo as opções de um Menu.
