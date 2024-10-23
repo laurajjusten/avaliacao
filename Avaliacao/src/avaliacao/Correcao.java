@@ -30,7 +30,27 @@ public class Correcao {
                     correcao.cadastrarProduto();
                     break;
                 case 2:
-                    correcao.cadastrarProduto();
+                    correcao.fazerConserto();
+                    break;
+                case 3:
+                    correcao.fazerEntrega();
+                    break;
+                case 4:
+                    correcao.mostrarRelatorio();
+                    break;
+                case 5:
+                    correcao.exibirProdutosNaoConsertados();
+                    break;
+                case 6:
+                    correcao.exibirProdutosConsertadosNaoEntregues();
+                    break;
+                case 7:
+                    correcao.exibirFaturamento();
+                    break;
+                case 8:
+                    break;
+                default:
+                    System.out.println("Opção inválida!");
                     break;
             }
         } while (opcao != 8);
